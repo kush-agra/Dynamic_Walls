@@ -15,7 +15,7 @@ A cronjob is set up to ensure the script runs at intervals to be able to change 
 # Set Up
 
 1. Download and extract the [zip containing all the wallpaper files](https://mega.nz/#!UxxyVKJT!4Kn3ilScP2FALnbR3mG3G6I7gDpm7ZE8lGEGU1hGEG0)
-extract it directly or copy the extracted folder to the directory `/Users/<Username>/Pictures/Wallpapers` create the Wallpapers directory if it doesn't exist, the pictures should be in the mojave_dynamic directory
+extract it directly or copy the extracted folder to the directory `/Users/<Username>/Pictures/Wallpapers` create the Wallpapers directory if it doesn't exist, confirm that the pictures are in the *mojave_dynamic* directory
 
 2. Download the github repo as zip and place all files in the above Wallpapers directory
 
