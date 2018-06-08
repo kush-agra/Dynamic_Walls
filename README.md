@@ -22,7 +22,7 @@ extract it directly or copy the extracted folder to the directory `/Users/<Usern
 just for reference the Wallpapers folder in the end should look something like this
 ![Imgur](https://i.imgur.com/UTldoJf.jpg)
 
-3. Last we need to set up a corn job
+3. Last we need to set up a cron job
 
 Start the terminal and the use nano to edit thejob list like so 
 
@@ -39,3 +39,5 @@ and we're done, Advantage of this is with minor tweaking we can use custom wallp
 will be working on making it so that even the minor tweaking is not needed for customisability
 
 **P.S:** one can also use a software like [GeekTool](https://www.tynsoe.org/v2/geektool/) instead of setting up a cronjob in 3<sup>rd</sup> step
+
+**P.P.S** To remove simply open the job list with nano like in third step and erase the line and save
