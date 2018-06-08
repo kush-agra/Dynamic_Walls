@@ -23,11 +23,11 @@ extract it directly or copy it to the directory /Users/<Username>/Pictures/Wallp
 
 Start the terminal and the use nano to edit thejob list like so 
 
-'''env EDITOR=nano crontab -e'''
+```env EDITOR=nano crontab -e```
 
 Then write
 
-'''*/5 * * * * /usr/bin/osascript ~/Pictures/Wallpapers/Dynamic_Wallpapers1.3.scpt
+```*/5 * * * * /usr/bin/osascript ~/Pictures/Wallpapers/Dynamic_Wallpapers1.3.scpt```
 
 and press control + o and then enter to write to the file and then control + x to exit out of nano
 
