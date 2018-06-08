@@ -32,10 +32,10 @@ Then write
 
 ```*/5 * * * * /usr/bin/osascript ~/Pictures/Wallpapers/Dynamic_Wallpapers1.3.scpt```
 
-and press control + o and then enter to write to the file and then control + x to exit out of nano
+and press `control + o` and then `enter/return` to write to the file and then `control + x` to exit out of nano
 
 and we're done, Advantage of this is with minor tweaking we can use custom wallpapers too which Apple being Apple won't give us the option to.
 
 will be working on making it so that even the minor tweaking is not needed for customisability
 
-P.S: one can also use a software like [GeekTool](https://www.tynsoe.org/v2/geektool/) instead of setting up a cronjob in 3^rd step
+**P.S:** one can also use a software like [GeekTool](https://www.tynsoe.org/v2/geektool/) instead of setting up a cronjob in 3^rd step
