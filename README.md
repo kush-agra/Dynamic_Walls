@@ -46,10 +46,17 @@ will be working on making it so that even the minor tweaking is not needed for c
 ____
 
 # Changelog
+**1.7-alpha**
+
+Added auto switching OS Appearance to Dark according to time. Thanks @katernet
+
+Added multi-monitor support. Thanks @eclair4151
+
+
 **1.6-alpha**
 
-  Removed version name from file name to make updates easier
+Removed version name from file name to make updates easier
 
-  some fixes for 24 hour clock setting
+Some fixes for 24 hour clock setting
 
-  **Important :** one time set up change for old users, open nano as in step 3 and change the line to as seen now in third    step and save and close as before
+**Important :** One time set up change for old users, open nano as in step 3 and change the line to as seen now in third    step and save and close as before
