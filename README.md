@@ -1,6 +1,6 @@
 # Dynamic_Walls
 
-*Alpha* [**See Changelog**](https://github.com/kush-agra/Dynamic_Walls#Changelog)
+*Alpha* [**See Changelog**](https://github.com/kush-agra/Dynamic_Walls#changelog)
 
 Experimental script to replicate MacOS Mojave's dynamic wallpapers feature
 
@@ -44,10 +44,10 @@ will be working on making it so that even the minor tweaking is not needed for c
 ____
 
 # Changelog
-1.6-alpha
+**1.6-alpha**
 
-Removed version name from file name to make updates easier
+  Removed version name from file name to make updates easier
 
-some fixes for 24 hour clock setting
+  some fixes for 24 hour clock setting
 
-**Important :** one time set up change for old users, open nano as in step 3 and change the line to as seen now in third step and save and close as before
+  **Important :** one time set up change for old users, open nano as in step 3 and change the line to as seen now in third    step and save and close as before
