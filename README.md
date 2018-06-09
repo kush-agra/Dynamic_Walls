@@ -30,7 +30,7 @@ Start the terminal and the use nano to edit thejob list like so
 
 Then write
 
-```*/5 * * * * /usr/bin/osascript ~/Pictures/Wallpapers/Dynamic_Wallpapers1.3.scpt```
+```*/5 * * * * /usr/bin/osascript ~/Pictures/Wallpapers/Dynamic_Walls.scpt```
 
 and press `control + o` and then `enter/return` to write to the file and then `control + x` to exit out of nano
 ____
