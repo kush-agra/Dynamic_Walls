@@ -48,9 +48,9 @@ ____
 # Changelog
 **1.7-alpha**
 
-Added auto switching OS Appearance to Dark according to time. Thanks @katernet
+Added auto switching OS Appearance to Dark according to time. Thanks [@katernet](https://github.com/katernet/darkmode)
 
-Added multi-monitor support. Thanks @eclair4151
+Added multi-monitor support. Thanks [@eclair4151](https://github.com/eclair4151)
 
 
 **1.6-alpha**
