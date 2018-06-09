@@ -45,6 +45,9 @@ ____
 
 # Changelog
 1.6-alpha
+
 Removed version name from file name to make updates easier
+
 some fixes for 24 hour clock setting
+
 **Important :** one time set up change for old users, open nano as in step 3 and change the line to as seen now in third step and save and close as before
