@@ -20,7 +20,7 @@ extract it directly or copy the extracted folder to the directory `/Users/<Usern
 2. Download the github repo as zip and place all enclosed files in the above Wallpapers directory
 
 just for reference the Wallpapers folder in the end should look something like this
-![Imgur](https://i.imgur.com/UTldoJf.jpg)
+![Imgur](https://i.imgur.com/TPGmeys.jpg)
 
 3. Last we need to set up a cron job
 
