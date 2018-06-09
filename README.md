@@ -10,7 +10,7 @@ Uses [Sunrise-Sunset api](https://sunrise-sunset.org/api) to get the sunrise and
 
 The wallpapers were extracted from the HEIC file from the Mojave beta
 
-A cronjob is set up to ensure the script runs at intervals to be able to change the wallpaper
+A cron job is set up to ensure the script runs at intervals to be able to change the wallpaper
 
 # Set Up
 
@@ -24,7 +24,7 @@ just for reference the Wallpapers folder in the end should look something like t
 
 3. Last we need to set up a cron job
 
-Start the terminal and the use nano to edit thejob list like so 
+Start the terminal and the use nano to edit the job list like so 
 
 ```env EDITOR=nano crontab -e```
 
@@ -34,13 +34,13 @@ Then write
 
 and press `control + o` and then `enter/return` to write to the file and then `control + x` to exit out of nano and we're done, the wallpaper should get changed after a few minutes
 
-The 5 stands for 5 minutes after which the script re-runs, one can change it to a custom interval if they wish
+*The 5 stands for 5 minutes after which the script re-runs, one can change it to a custom interval if they wish*
 ____
 Advantage of this is with minor tweaking we can use custom wallpapers too which Apple being Apple won't give us the option to.
 
 will be working on making it so that even the minor tweaking is not needed for customisability
 
-**P.S:** one can also use a software like [GeekTool](https://www.tynsoe.org/v2/geektool/) instead of setting up a cronjob in 3<sup>rd</sup> step
+**P.S:** one can also use a software like [GeekTool](https://www.tynsoe.org/v2/geektool/) instead of setting up a cron job in 3<sup>rd</sup> step
 
 **P.P.S** To remove simply open the job list with nano like in third step and erase the line and save
 ____
