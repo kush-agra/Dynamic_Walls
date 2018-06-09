@@ -1,6 +1,6 @@
 # Dynamic_Walls
 
-*Alpha*
+*Alpha* [**See Changelog**](https://github.com/kush-agra/Dynamic_Walls#Changelog)
 
 Experimental script to replicate MacOS Mojave's dynamic wallpapers feature
 
@@ -41,3 +41,10 @@ will be working on making it so that even the minor tweaking is not needed for c
 **P.S:** one can also use a software like [GeekTool](https://www.tynsoe.org/v2/geektool/) instead of setting up a cronjob in 3<sup>rd</sup> step
 
 **P.P.S** To remove simply open the job list with nano like in third step and erase the line and save
+____
+
+# Changelog
+1.6-alpha
+Removed version name from file name to make updates easier
+some fixes for 24 hour clock setting
+**Important :** one time set up change for old users, open nano as in step 3 and change the line to as seen now in third step and save and close as before
