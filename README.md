@@ -42,7 +42,7 @@ will be working on making it so that even the minor tweaking is not needed for c
 
 one could use a launchd command and plist to set up to auto execute at system wake
 
-**P.S:** Same script without the auto dark/light theme setting is avialable in releases if one prefers a dark mode all the time
+**P.S:** Same script without the auto dark/light theme setting is avialable in [releases](https://github.com/kush-agra/Dynamic_Walls/releases) if one prefers a dark mode all the time
 
 **P.P.S1:** one can also use a software like [GeekTool](https://www.tynsoe.org/v2/geektool/) instead of setting up a cron job in 3<sup>rd</sup> step
 
