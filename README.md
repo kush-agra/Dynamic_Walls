@@ -48,7 +48,13 @@ one could use a launchd command and plist to set up to auto execute at system wa
 ____
 
 # Changelog
-**1.7-alpha**
+**1.7.1-alpha**
+
+Added noon time matching
+
+Minor logic fix
+
+*1.7-alpha*
 
 Added auto switching OS Appearance to Dark according to time. Thanks [@katernet](https://github.com/katernet/darkmode)
 
