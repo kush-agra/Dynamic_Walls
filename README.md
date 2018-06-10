@@ -4,7 +4,7 @@
 
 Experimental script to replicate MacOS Mojave's dynamic wallpapers feature, also sets system theme to dark/light accordingly 
 
-Uses [Sunrise-Sunset api](https://sunrise-sunset.org/api) to get the sunrise and sunset times of current location received by the [LocateMe](http://iharder.sourceforge.net/current/macosx/locateme/) command line tool 
+Uses [Sunrise-Sunset api](https://sunrise-sunset.org/api) to get the sunrise and sunset times of current location retrieved by the [LocateMe](http://iharder.sourceforge.net/current/macosx/locateme/) command line tool 
 
 >LocateMe is a Public Domain command-line tool that lets you find your location (latitude, longitude, etc) using Apple's geolocation services.
 
