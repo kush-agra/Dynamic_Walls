@@ -54,6 +54,8 @@ ____
 
 Added noon time matching
 
+Added useDark? switch
+
 Minor logic fix
 
 *1.7-alpha*
