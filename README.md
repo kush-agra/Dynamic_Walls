@@ -2,7 +2,7 @@
 
 *Alpha* [**See Changelog**](https://github.com/kush-agra/Dynamic_Walls#changelog)
 
-Experimental script to replicate MacOS Mojave's dynamic wallpapers feature
+Experimental script to replicate MacOS Mojave's dynamic wallpapers feature, also sets system theme to dark/light accordingly 
 
 Uses [Sunrise-Sunset api](https://sunrise-sunset.org/api) to get the sunrise and sunset times of current location received by the [LocateMe](http://iharder.sourceforge.net/current/macosx/locateme/) command line tool 
 
@@ -39,6 +39,8 @@ ____
 Advantage of this is with minor tweaking we can use custom wallpapers too which Apple being Apple won't give us the option to.
 
 will be working on making it so that even the minor tweaking is not needed for customisability
+
+one could use a launchd command and plist to set up to auto execute at system wake
 
 **P.S:** one can also use a software like [GeekTool](https://www.tynsoe.org/v2/geektool/) instead of setting up a cron job in 3<sup>rd</sup> step
 
