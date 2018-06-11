@@ -2,7 +2,7 @@
 
 *Beta* [**See Changelog**](https://github.com/kush-agra/Dynamic_Walls#changelog)
 
-Experimental script to replicate MacOS Mojave's dynamic wallpapers feature, also sets system theme to dark/light accordingly 
+Experimental script to replicate macOS Mojave's dynamic wallpapers feature, also sets system theme to dark/light accordingly 
 
 Uses [Sunrise-Sunset api](https://sunrise-sunset.org/api) to get the sunrise and sunset times of current location retrieved by the [LocateMe](http://iharder.sourceforge.net/current/macosx/locateme/) command line tool 
 
