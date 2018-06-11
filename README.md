@@ -1,6 +1,6 @@
 # Dynamic_Walls
 
-*Alpha* [**See Changelog**](https://github.com/kush-agra/Dynamic_Walls#changelog)
+*Beta* [**See Changelog**](https://github.com/kush-agra/Dynamic_Walls#changelog)
 
 Experimental script to replicate MacOS Mojave's dynamic wallpapers feature, also sets system theme to dark/light accordingly 
 
@@ -50,6 +50,14 @@ one could use a launchd command and plist to set up to auto execute at system wa
 ____
 
 # Changelog
+**1.7.2-beta**
+
+Move to beta
+
+Better sunrise matching by using twilight begin instead of actual sunrise time (make sure you download the getSunrise.sh file if downloading files individually)
+
+Minor logic fix
+
 **1.7.1-alpha**
 
 Added noon time matching
