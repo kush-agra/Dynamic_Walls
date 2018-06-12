@@ -50,6 +50,12 @@ one could use a launchd command and plist to set up to auto execute at system wa
 ____
 
 # Changelog
+**1.7.3-beta**
+
+New fixed image order
+
+Fixed an overlapping times issue
+
 **1.7.2-beta**
 
 Move to beta
