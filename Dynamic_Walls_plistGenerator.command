@@ -11,7 +11,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
         	<key>ProgramArguments</key>
         	<array>
                 	<string>osascript</string>
-			<string>/Users/var/Pictures/Wallpapers/Dynamic_Walls.scpt</string>
+			<string>/Users/$var/Pictures/Wallpapers/Dynamic_Walls.scpt</string>
 		</array>
 		<key>RunAtLoad</key>
 		<true/>
