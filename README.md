@@ -40,7 +40,7 @@ ____
 # Changelog
 **1.7.4-beta**
 
-Replaced corn jobs by something far better ie plists. Thanks [@john2691](https://github.com/john2691) for the hard work
+Replaced cron jobs by something far better ie plists. Thanks [@john2691](https://github.com/john2691) for the hard work
 
 **1.7.3-beta**
 
