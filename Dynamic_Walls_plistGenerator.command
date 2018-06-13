@@ -24,6 +24,6 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
 
 sleep 2
 
-launchctl load -w /Users/$var/Library/LaunchAgents/wallpaper.plist
+launchctl load -w /Users/$var/Library/LaunchAgents/Dynamic_walls.Scheduler.plist
 
 osascript -e 'tell app "Terminal"' -e 'close (every window whose name contains ".command")' -e 'if number of windows = 0 then quit' -e 'end tell' & exit;
