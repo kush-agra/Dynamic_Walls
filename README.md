@@ -49,7 +49,7 @@ ____
 
 **Lets you use custom images as well, had to fix the image order to make it possible** please download the images again in fixed order [here](https://mega.nz/#!Y4wy0ATL!YaPuL-tu3sBxevXL8HMO_j9eEfLyVQ4JFpqsH_788zs) or rename the image files you currently have as shown [here](https://github.com/kush-agra/Dynamic_Walls/issues/5)
 
-Combined the scripts into a proper app, also open source, [please beta test here ❤️](https://github.com/kush-agra/Dynamic_Walls-app), lets you use images from ay folder anywhere
+Combined the scripts into a proper app, also open source, [please beta test here ❤️](https://github.com/kush-agra/Dynamic_Walls-app), lets you use images from any folder anywhere
 
 Directories aren't hardcoded anymore, just needs the mojave_dynamic folder to be in the same directory as script
 
