@@ -1,5 +1,7 @@
 # Dynamic_Walls
 
+Same script avialable in a simple App format [here](https://github.com/kush-agra/Dynamic_Walls-app/)
+
 *Beta* [**See Changelog**](https://github.com/kush-agra/Dynamic_Walls#changelog)
 
 Experimental script to replicate macOS Mojave's dynamic wallpapers feature, also sets system theme to dark/light accordingly 
@@ -30,7 +32,8 @@ Just right click and open the Dynamic_Walls_plistGenerator file (Double clicking
 ____
 Advantage of this is with minor tweaking we can use custom wallpapers too which Apple being Apple won't give us the option to.
 
-will be working on making it so that even the minor tweaking is not needed for customisability
+~~will be working on making it so that even the minor tweaking is not needed for customisability~~
+https://github.com/kush-agra/Dynamic_Walls-app/
 
 **P.S:** To disable auto switching to dark/light theme based on time if you prefer system theme to be always dark or light open the Dynamic_Walls.scpt file and set useDark to false in the first line
 
