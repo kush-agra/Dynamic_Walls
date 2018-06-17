@@ -18,10 +18,12 @@ The plist file can be found by the name of Dynamic_Walls.scheduler.plist in the 
 
 # Set Up
 
-1. Download and extract the [zip containing all the wallpaper files](https://mega.nz/#!UxxyVKJT!4Kn3ilScP2FALnbR3mG3G6I7gDpm7ZE8lGEGU1hGEG0)
-extract it directly or copy the extracted folder to the directory `/Users/<Username>/Pictures/Wallpapers` create the Wallpapers directory if it doesn't exist, confirm that the pictures are in the *mojave_dynamic* directory
+1. Download and extract the [zip containing all the wallpaper files](https://mega.nz/#!Y4wy0ATL!YaPuL-tu3sBxevXL8HMO_j9eEfLyVQ4JFpqsH_788zs)
+extract it directly or copy the extracted folder to the directory `/Users/<Username>/Pictures/Wallpapers` create the Wallpapers directory if it doesn't exist, confirm that the pictures are in the **mojave_dynamic** directory
 
-2. Download the latest release (or the github repo as zip) and place all enclosed files in the above Wallpapers directory
+(You can now from beta 1.8 and above use any directory but all script files should be in the same directory and the directory must contain the mojave_dynamic folder containing all the images)
+
+2. Download the latest release (or the github repo as zip) and place all enclosed files in the above ~~Wallpapers~~ directory
 
 just for reference the Wallpapers folder in the end should look something like this
 ![Imgur](https://i.imgur.com/yrp4h7v.jpg)
@@ -32,6 +34,7 @@ Just right click and open the Dynamic_Walls_plistGenerator file (Double clicking
 ____
 Advantage of this is with minor tweaking we can use custom wallpapers too which Apple being Apple won't give us the option to.
 
+You can now use custom wallpapers, check the changelog for 1.8-beta below
 ~~will be working on making it so that even the minor tweaking is not needed for customisability~~
 https://github.com/kush-agra/Dynamic_Walls-app/
 
@@ -41,6 +44,17 @@ https://github.com/kush-agra/Dynamic_Walls-app/
 ____
 
 # Changelog
+
+## 1.8-beta
+
+**Lets you use custom images as well, had to fix the image order to make it possible** please download the images again in fixed order [here](https://mega.nz/#!Y4wy0ATL!YaPuL-tu3sBxevXL8HMO_j9eEfLyVQ4JFpqsH_788zs) or rename the image files you currently have as shown [here](https://github.com/kush-agra/Dynamic_Walls/issues/5)
+
+Combined the scripts into a proper app, also open source, [please beta test here ❤️](https://github.com/kush-agra/Dynamic_Walls-app), lets you use images from any folder anywhere
+
+Directories aren't hardcoded anymore, just needs the mojave_dynamic folder to be in the same directory as script
+
+To use custom wallpapers just make sure the images are in the mojave_dynamic folder and are [formatted like this](https://github.com/kush-agra/Dynamic_Walls-app#images-format)
+
 **1.7.4-beta**
 
 Replaced cron jobs by something far better ie plists. Thanks [@john2691](https://github.com/john2691) for the hard work
